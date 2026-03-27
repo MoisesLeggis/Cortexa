@@ -166,8 +166,6 @@ Aquí es donde Cortexa evoluciona a algo **mucho más potente**:
 
 ## 📬 Contacto
 
-¿Tienes ideas, preguntas o quieres colaborar en el proyecto? ¡Con gusto hablamos!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moises%20Leggis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-leggis-63175a27b)
@@ -179,7 +177,6 @@ Aquí es donde Cortexa evoluciona a algo **mucho más potente**:
 
 <div align="center">
 
-Hecho con ❤️ y mucho café ☕
 
 *Cortexa — Porque entenderte también es parte del proceso.*
 
